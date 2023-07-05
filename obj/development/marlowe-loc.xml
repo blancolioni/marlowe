@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>E:\git\marlowe\marlowe.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 7" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 3" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 8" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 11" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-debug.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 7" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 19" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 33" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-table_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-storage_element_page_handle.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-storage_element_page_handle.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 79" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 80" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 63" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-strings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-strings.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 3" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-strings.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 8" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-images.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-file_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-data_stores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-data_stores-btrees.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-field_extension.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-files.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 11" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-file_header_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 11" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-free_map_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-free_map.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-btree_header.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-file_header.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 13" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-field_extension_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-table.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-data_definition_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-files.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_header_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-table.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-cache.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-data_definition.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-locks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-locks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-caches.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-abstract_keys.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-key_storage.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-field_extension_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-data_stores-btrees.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-file_header.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-key_storage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-data_stores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-field_extension.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-abstract_keys.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-file_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-btree_header.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 57" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-file_header_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 60" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-free_map_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-free_map.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_header_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-data_definition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-data_definition_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-caches.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree_page_handles.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 237" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-data_definition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 249" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-pages-btree_header.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 14" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-field_extension_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 19" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-handles-field_extension_page_handles.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 13" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-images.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-images.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 6" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\src\marlowe-btree-images.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>E:\git\marlowe\marlowe.gpr</vfs_project>
+      <vfs_file>E:\git\marlowe\config\marlowe_config.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
